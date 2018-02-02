@@ -29,5 +29,8 @@
     <ClCompile Include="C-Language_Practices.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="first-practice.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
