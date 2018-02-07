@@ -1,4 +1,4 @@
-//First commit to Github cpp
+//fist_Practice.cpp for practicing commit to github
 #include <stdafx.h>
 #include <iostream>
 
